@@ -10,6 +10,11 @@ Phyla_AMPHORA is free software: you may redistribute it and/or modify its under 
 Phyla_AMPHORA is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details (http://www.gnu.org/licenses/).
 
 For any other inquiries send an Email to Martin Wu: mw4yv@virginia.edu
+
+CITATION
+When publishing work that is based on the results from Phyla_AMPHORA, please cite:
+Wang Z and Wu M: A Phylum-level Bacterial Phylogenetic Marker Database. Mol. Biol. Evol. Advance Access publication March 21, 2013. doi:10.1093/molbev/mst059
+
  
 DEPENDENCY
 Phyla_AMPHORA depends on several external programs.
