@@ -16,7 +16,7 @@
 #       mw4yv@virginia.edu
  
 # When publishing work that is based on the results from AMPHORA please cite:
-# TBA
+# Wang Z and Wu M: A Phylum-level Bacterial Phylogenetic Marker Database. Mol. Biol. Evol. Advance Access publication March 21, 2013. doi:10.1093/molbev/mst059
 
 #! /usr/bin/perl
 
