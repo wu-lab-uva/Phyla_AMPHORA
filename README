@@ -68,7 +68,7 @@ This folder contains a seed alignment file in Stockholm format (*.stock), an ali
 
 For more information about the phylogenetic markers that are included in Phyla_AMPHORA, see the marker.list file in the Marker folder.
 
-IMPORTANT: Because the Marker folder exceeds the 1GB (the size limit of github), it is not included in the github package. If you download Phyla_AMPHORA from github, you should download the Marker database from http://wolbachia.biology.virginia.edu/WuLab/Software.html and move it here.
+IMPORTANT: Because the Marker folder exceeds the 1GB (the size limit of github), it is not included in the github package. If you download Phyla_AMPHORA from github, you should download the Marker database from http://www.wulabuva.org/software.html and move it here.
 
 2. Scripts
 This folder contains the scripts for marker identification, alignment, trimming and phylotyping.
